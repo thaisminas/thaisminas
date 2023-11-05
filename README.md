@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Backend developer<br>🌱 I'm studying PHP and Node.js<br>💬 I'm curious, I like challenges and passionate about programming
+🔭 Backend developer<br>🌱 I'm studying PHP and Node.js<br>💬 I'm curious, I like challenges, and I passionate about programming
 
 
 ## 🌐 Socials:
