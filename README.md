@@ -20,5 +20,3 @@
 </div>
 
 
-![Snake animation](https://github.com/thaisminas/thaisminas/blob/output/github-contribution-grid-snake.svg)
-
