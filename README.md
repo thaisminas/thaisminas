@@ -12,8 +12,6 @@
 [![](https://visitcount.itsvg.in/api?id=thaisminas&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
-![Snake animation](https://github.com/thaisminas/thaisminas/blob/output/github-contribution-grid-snake.svg)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -23,4 +21,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisminas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Snake animation](https://github.com/thaisminas/thaisminas/blob/output/github-contribution-grid-snake.svg)
 
