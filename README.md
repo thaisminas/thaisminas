@@ -12,3 +12,9 @@
 [![](https://visitcount.itsvg.in/api?id=thaisminas&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div>
+<a href="https://github.com/thaisminas">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisminas&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisminas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
